@@ -1,6 +1,6 @@
 # Covid-Cases-Forcasting
 ## Goals of the Project
-* Create tables in SSMS using metadata from [Our World In Data](https://ourworldindata.org/covid-deaths)
+* Create tables in Microsoft SSMS using metadata from [Our World In Data](https://ourworldindata.org/covid-deaths)
 * Calculate descriptic statistics such as Total Cases and Deaths and Current Vaccination Rates
 * Export tables to be used in tableau
 * Skills demostrated: 
