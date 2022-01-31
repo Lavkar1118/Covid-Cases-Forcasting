@@ -7,4 +7,4 @@
                       * Using Aggregate Functions
                       * Implementing Joins 
                       * Creating Temp Tables and Common Table Expressions*
-* Tableau Dashboard presenting key trends can be found [here](https://public.tableau.com/app/profile/lavanya.muthukumar1967/viz/Covid_dashborad/Dashboard1)
+* Tableau Dashboard presenting key trends can be found [here](https://public.tableau.com/app/profile/lavanya.muthukumar1967/viz/Covid_dashborad_updated/Dashboard1)
