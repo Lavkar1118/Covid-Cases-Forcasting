@@ -8,3 +8,5 @@
                       * Implementing Joins 
                       * Creating Temp Tables and Common Table Expressions*
 * Tableau Dashboard presenting key trends can be found [here](https://public.tableau.com/app/profile/lavanya.muthukumar1967/viz/Covid_dashborad_updated/Dashboard1)
+
+![This is an image](/covid-cases-forecasting//Dashboard_pic.png)
